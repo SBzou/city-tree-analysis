@@ -1,0 +1,17 @@
+                                    class  count
+0     Taille formation et mise au gabarit   4616
+1                                       ?   4525
+2                                Controle   2493
+3                     Taille de bois mort   1660
+4                     Taille cohabitation    564
+5                 Taille mise en sécurité    418
+6                       Taille déclaircie    365
+7                                Abattage    220
+8               Aménagement pieds darbres    162
+9   Controle tuteur attache ou protection    144
+10                 Taille de prolongement    108
+11                          Taille rideau     59
+12                               Arrosage     19
+13                               Emondage      8
+14                 Controle résistographe      7
+15                             Haubannage      7

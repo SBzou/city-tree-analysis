@@ -1,0 +1,1142 @@
+                                   class  count
+0         Prc Echangeurs Bastion St Roch    211
+1                      Cimetière St Roch    210
+2          Prc Echangeurs Valmy Gallieni    193
+3                        Stade Bachelard    179
+4              Cimetière du Grand Sablon    158
+5                     Pc Ch Elysés Ouest    153
+6                      Cité Léon Jouhaux    150
+7                           Alpexpo park     96
+8                 Sq Marcellin Berthelot     94
+9              Pc Ch Elysés Ouest du lac     87
+10         Esplan boulod et park relais      82
+11                          Parc Soulage     81
+12           Prc Echangeurs talus berges     80
+13        All Romantiques LBruyère Vigny     78
+14          R Ernest Hareux zone compost     76
+15              Pc Alliance R Stalingrad     73
+16        Crs Libération Beauvert Alliés     70
+17              Prc La Bruyère dalle Res     70
+18        Prc La Bruyère NORD mail centr     69
+19               Pc Savane pelouses Nord     64
+20            Allée des Romantiques pair     61
+21           Sq Drevet ang Salengro Libé     57
+22                Coulée verte Esclangon     56
+23        Av Martyrs Résistance Horowitz     56
+24        Grenoble village av M Reynoard     56
+25                       Jard des Poêtes     55
+26          R Esmonin Blum au rond point     55
+27                    Hôtel Lesdiguières     54
+28          Allée des Romantiques impair     54
+29               R Hilaire de Chardonnet     53
+30          Bd Gambetta Dubedout Berriat     52
+31          Av Martyrs Tram Sud Horowitz     52
+32            R Maurice Dodero n 12 à 16     52
+33                Parc 1 Michalon centre     50
+34                Espace Chantal Mauduit     50
+35          Pl Ch Dullin partie centrale     50
+36        Crs Libération Ronsard Reynier     49
+37              Prc Echangeurs amphi Sud     48
+38              Esplan ceinture SudOuest     48
+39         Crs Libération France Ronsard     48
+40                      R Jules Horowitz     47
+41              R Arts de montagne Talus     46
+42                         Jard de Ville     45
+43                   Sq Capitaine Camine     45
+44             Park l durée r E Gueymard     45
+45            Pl J Moulin partie Sud Est     43
+46                        Cargo park Est     43
+47            Jard Hoche P Fugain buttes     43
+48        R Vaujany Dagalier au terminus     42
+49        Pc 3 H St Ferjus Chartr Hermin     41
+50                        R Marquian MIN     41
+51          R Esmonin sép face Carrefour     41
+52          Pc Ch Elysés Maison lenfance     41
+53        Crs Libération Reynier Vaujany     40
+54         Bd J Vallier voie tram impair     40
+55           Av Reynoard sép VO a Musset     39
+56           R Hébert imp Verdun St Roch     38
+57             Cimetière du Petit Sablon     38
+58             Pc Ch Elysés pelouse Nord     38
+59          Prc Ouagadougou partie Ouest     38
+60        Prc Pompidou abs aire de jeux      38
+61          A F Viallet la Gare à Jaures     38
+62           Bd Gambetta Berriat Lesdigu     38
+63           Garage central Malherbe Est     38
+64                R Esmonin sép face IMT     37
+65              Bd Esplan face n 02 à 44     36
+66           Parc du Clos dOr Stalingrad     36
+67                             Ec du lac     36
+68             Esplan ceinture NordOuest     36
+69        Al Romantiques Musset LBruyère     36
+70             Arrèt tram La Bruyère Est     36
+71         Pl J Moulin partie Nord Ouest     35
+72             Av J O Valles Poterne sép     35
+73          Sq Bajatière Chem de léglise     35
+74              Cité Teisseire le bassin     35
+75         Cité F Gauthier pel de larche     35
+76             Prc Echangeurs amphi Nord     35
+77        Prc LaBruyère SUD mail central     34
+78        Crs Libération Rondeau Ec Libé     34
+79        Av Reynoard Village au Collège     34
+80                   Jard Plantes centre     34
+81                          Chem du tram     33
+82        Ave St Roch terrain stabilisé      33
+83          Bd Joffre tram Pasteur Rivet     33
+84                     Stade VO pourtour     33
+85           Bd J Vallier voie tram pair     33
+86        Av Reynoard 3 Quartiers Musset     33
+87                      Qu de la Graille     33
+88        Sq R Genin et Park D Rochereau     33
+89         Pc 3 H St Ferjus t Belledonne     32
+90           Prc Pompidou centre sportif     32
+91        Av Reynoard Lbruyère a Village     32
+92                      R Emile Gueymard     32
+93               Pc Ch Elysés Est du lac     32
+94             R R Salengro talus biblio     31
+95         Bd Clémenceau J darc à Driant     31
+96              Bd Esplan pair n 02 à 44     31
+97               Pôle festif R L Jouhaux     31
+98                       R Louise Michel     31
+99             Jard des Dauphins sommet      31
+100       Jard Hoche Ouest stabilisé pel     30
+101      Crs Libération Vallier Salengro     29
+102         Ch Chapitre ang Stat Ponsard     29
+103                   Sq Foch ang Mangin     29
+104         Parc Vallier partie centrale     29
+105           Jard des Dauphins pelouses     29
+106        Av Lbruyère SO passe Malherbe     29
+107         Av J O nord 140 RIA Chapitre     29
+108         R Pupin des Ecrins au tunnel     28
+109        Av J O Washington Jouhaux sép     28
+110            Voie E O Cargo à J Perrot     28
+111            Bd Esplan Autoroute A 48      28
+112        R L Jouhaux Cocat à Fernandat     27
+113            Crs Libé Verlaine Bauvert     27
+114          Res Dauphins 3240 Qu France     27
+115            Bd Vallier R Danube Libé      27
+116               Jard Hoche pelouse Est     27
+117            Parc 2 R Herminier centre     27
+118          Prc La Bruyère mail central     27
+119         Jard Hoche Sud sport et jeux     27
+120                     Ave Beaumarchais     27
+121               Sq du Pas de laiguille     27
+122           R P Claudel Tour n 03 à 07     27
+123            Jard Hoche cour des Mômes     27
+124            Parc 2 R Hermin M Leclerq     27
+125       R C Kogan centrale tléphonique     27
+126                  R C Kogan n 14 à 28     26
+127             R Maquis de lOisans park     26
+128                    Qu Claude Bernard     26
+129                         R H Barbusse     26
+130         Bd Foch Tram G Rivet Marceau     26
+131                      Clos des Fleurs     26
+132               R N Boileau et Mansard     26
+133                    R Christophe Turc     26
+134       Prc Pompidou pelouse du bassin     26
+135        Av Malherbe Pascal à J Perrot     26
+136         Av Bossuet Helbronner Racine     25
+137         All Deux Mondes aire de jeux     25
+138        R Alliés Stalingrad  H Balzac     25
+139       Pc Pompidou al du parc face 03     25
+140         R G Lafourcade Terrain Blanc     25
+141           R Léo Lagrange voie ferrée     25
+142        R G Tonnelier Cocat Fernandat     25
+143        R R Salengro pel Hlle Blanche     25
+144        R Vaujany Libération Dagalier     24
+145               Le Rondeau coté impair     24
+146        Jard Hoche Sud couronne extér     24
+147                      Ec des Trembles     24
+148        Bd J Pain Tram Lyautet Mairie     24
+149              Cité Mistral la prairie     24
+150         Ch Gordes pourtour gym Munch     24
+151       Av Constantine park Cascateles     24
+152         Pc Ch Elysés pel petit train     23
+153                     R M Dodero SOGEA     23
+154       Prc Pompidou abords boulodrome     23
+155        R Hébert pair Chanrion Verdun     23
+156       Av Berthelot Malifaut G Lussac     23
+157       Passag B Montferrat Schweitzer     23
+158                        R de la Frise     23
+159       R des Alliés Reynoard Flaubert     23
+160       Av Reynoard sép Musset à URSAF     23
+161         Av A Belgique Perrot Cornier     23
+162               R M Riollet cité rouge     23
+163            Sq Mutualité ang Chanrion     23
+164        Jard Plantes dans la rocaille     23
+165                R P Claudel sous bois     22
+166             R des trois épis 13 à 20     22
+167            Jard Hoche cour du mikado     22
+168          Cité Vignes Huchon à Halage     22
+169        Av M Reynoard face cl du Mail     22
+170       Av Reynoard Destinées LBruyère     22
+171          Av J O Wash à L Jouhaux sép     22
+172         Bd J Vallier Termier à Irvoy     22
+173           Cité F Gauthier abord bati     22
+174       Ec prim Clémenceau 05 R Lachat     22
+175          R Durand Savoyat talus pont     22
+176        Pas entre Stalingrad et Vigny     22
+177         R J Rey Berriat à N Chorrier     22
+178           R L Jouhaux Manteyer Cocat     22
+179       Cité Mistral Ouest gr scolaire     22
+180       Cité Teisseire Jard des buttes     22
+181       Pc 3 H St Ferjus terr pétanque     22
+182         Parvis L Néel MINATEC Voirie     22
+183                 R C Kogan n 35 et 37     22
+184       Cité Moyrand E Cartan le mail      21
+185            Centre œcuménique St Marc     21
+186                  R des Chardonnerets     21
+187       Pc Ch Elysés entrée Yves Farge     21
+188           R Esclangon Vercors à Weil     21
+189         Av Europe Doderot a Reynoard     21
+190       A DL Weill Arménie à Esclangon     21
+191                          Pl DrGirard     20
+192              Av J Perrot lorangeraie     20
+193       Crs Libération Ec Lib Verlaine     20
+194        Bd Gambetta Lesdigu Boissieux     20
+195                       Ave Rochambeau     20
+196       Ech Mistral séparateur central     20
+197              Crs La Fontaine impair      20
+198        R Alliés Milliat à A de Vigny     20
+199         Parc 2 R Hermin tour Vercors     20
+200         R Stalingrad Balzac à Alliés     20
+201                     Sq DrLéon Martin     20
+202        Pl  L Jouvet mail jx de boule     20
+203         R A France CODASE ang Camine     20
+204                R C Kogan Pl centrale     20
+205        Av Constantine Gym des saules     20
+206       Pc Savane entrée Ronserail Sud     20
+207           Crs Libé Alliés Rochambeau     19
+208       Ec prim du Grand Chatelet n 36     19
+209       R Stalingrad Musset La Bruyère     19
+210         R du village face à la Poste     19
+211           Pl Gare park gare routière     19
+212                        Cité de lAlma     19
+213                       Ec la fontaine     19
+214                        R A de Chissé     19
+215                Quatre Tours Malherbe     19
+216       Av Martyrs impair Sud Horowitz     19
+217                R des Arts et Métiers     19
+218       Pc 3 H St Ferjus Chartr Belled     19
+219        Pl Ch Dullin arri im Malherbe     19
+220                          Ave Ronsard     19
+221       Crique sud abords terr de foot     19
+222                              R Hoche     19
+223                    R Gén Mangin 3941     19
+224                Ec prim n 55 R Ampère     19
+225          Rte Lyon départ Via Ferrata     19
+226          Prc La Bruyère Resid SUDEST     18
+227       Parc 2 R Herminier ch de Ronde     18
+228        R Léo Lagrange piste cyclable     18
+229             Pc Savane local pétanque     18
+230       Cité Paul Mistral R solidarité     18
+231       Bd J Vallier de Irvoy à Ampère     18
+232         R Musset de Pupin à Reynoard     18
+233           H de police bd Mal Leclerq     18
+234           Av A Belgique Durand Rivet     18
+235          R Peretto Bordier Berthelot     18
+236       Av Malherbe J Perrot GPhilippe     18
+237                     Ec A France n 31     18
+238                        R J Bart pair     18
+239         R Esmonin  Reynoard à Pupin      18
+240                Pl L Jouvet n 22 à 28     18
+241                     Cite George Sand     18
+242                Pl L Jouvet n 08 à 20     18
+243         Pc Savane aire jeux Painlevé     18
+244           Bd J Pain Vallier Dauphins     18
+245          Allée de la Sylphide impair     18
+246                 R FG Lorca n 12 à 18     18
+247            Sq L Blum ang Stalingrad      18
+248         R Léo Lagrange trottoir park     18
+249                         Sq Villebois     18
+250       R Déportés Bourget  Stalingrad     17
+251       R L Jouhaux Fernanda Teisseire     17
+252                R des trois Quartiers     17
+253         R Musset de Reynoard à Pupin     17
+254        R A Vigny M Oisans Stalingrad     17
+255            Allée de la Sylphide pair     17
+256                         R DrGreffier     17
+257          R Jouhaux Teisseire à Repos     17
+258          R Sémard Esclangon à larche     17
+259        Jard Plantes J à la française     17
+260        La piste pel de laire de jeux     17
+261       R Alliés Marquiand  Matussière     17
+262                          Pl J Achard     17
+263          R du Régiment du 4ème Génie     17
+264          Av Berthelot IUFM à voie EO     17
+265          R Lesdiguières Est Gambetta     17
+266                R P Mérimée la Bifurk     17
+267                 Ave Teisseire impair     17
+268              R L Lagrange face école     17
+269             Pl de la Commune de 1871     17
+270       Crs Jaurès impair de PHD/ Lorr     17
+271       Pc Pompidou al du parc 05 à 13     16
+272       Ave Beaumarchais ang A Reynier     16
+273                   Av Paul Cocat pair     16
+274          Jard Plantes le long J Pain     16
+275                   Pl St Bruno Voirie     16
+276           Av J Perrot ang J O 93 105     16
+277             R Esmonin talus Alibert      16
+278                           Pl dApvril     16
+279                Prc Pompidou  gradins     16
+280         Jard Dauphins 1ère terrasse      16
+281             R Cardinal le Camus pair     16
+282                    Impasse Ganganeli     16
+283             R Flandrin / Pont Carpin     16
+284         R E Claires Schweitzer Péguy     16
+285                Ave La Bruyère impair     16
+286        A A Lorraine Jaures à la Gare     16
+287        R Gén Mangin Sq dev immeubles     16
+288                       Pl Victor Hugo     16
+289                            R Cdt Nal     16
+290                        Hauts du PARC     16
+291        Av J Perrot ang J O  Chapitre     16
+292          Impasse Clément Ader Voirie     16
+293            Cité Abry R Gén Garibaldi     16
+294                        Av Europe EDF     16
+295            R A France park Vaucanson     16
+296            Sortie A 480 st Bachelard     16
+297            Parc Vallier aire de jeux     16
+298           C JJaurés Berriat à Dupont     15
+299       Av Europe ech Constantin talus     15
+300         Sq H Mauchant face 16 Voirie     15
+301          Ec Berlioz R F Garcia Lorca     15
+302          Cité F Gauthier abords jeux     15
+303         Ave Rh Danube L Michel Greta     15
+304       Pc Savane entrée Ronserail Nor     15
+305         R Gén Mangin Alliés Jacquart     15
+306               Re G Eiffel/ P Payerne     15
+307         Allée des Deux Mondes impair     15
+308                 Av Paul Cocat impair     15
+309         Cité Mistral R A Thomas park     15
+310                     Pl Valentin Hauÿ     15
+311             Cité Mistral stab Sud 74     15
+312         Crs Jaurès pair de PHD/ Lorr     15
+313          Pc Savane le long Rh Danube     15
+314              Pl Bir Hakeim commerces     15
+315        R L Jouhaux de J Bart au n 88     15
+316                  Ave La Bruyère pair     15
+317              R Col Driant cote école     15
+318                           Sq Florian     15
+319                     Place H Dubedout     15
+320       RArts de montagne aire de jeux     15
+321          Av Reynoard Musset LBruyère     15
+322            R Emile Romanet n 22 à 26     15
+323          Av Berthelot lycée Guynemer     15
+324                Parc 1 Michalon Musée     15
+325              Ave du Grand Serre pair     14
+326                         Ferme Prémol     14
+327         Av J O Perrot à D Fontanelle     14
+328       A Lorraine impair Jaures Gambe     14
+329             R Sémard dev éc commerce     14
+330                Square Marcel Peretto     14
+331         Av J Perrot ang Stat Ponsard     14
+332         R Manteyer des J O à Ravanat     14
+333        Tr quartiers pourtour silo 1      14
+334          Sq St Eynard station taxis      14
+335                    R de la Bajatière     14
+336          Chem de Ronde club bouliste     14
+337           Bd Gallieni park n 01 à 09     14
+338                            R Louvois     14
+339        Garage central Malherbe Ouest     14
+340         Sq H Mauchant grande pelouse     14
+341            Av J O  J Perrot à Kaunas     14
+342                        R Esmonin IMT     14
+343            Ec mat J Verne 15 R Hoche     14
+344                          Sq Ch Péguy     14
+345                        Pl des Saules     14
+346           R Vercors Morel à Alambert     14
+347                R du Trident 12 et 13     14
+348        Ec mat J Racine R Cl le Camus     14
+349         R G Philippe crédit agricole     14
+350        R Salengro sép Libé Schweitz      14
+351                          Pl St Bruno     14
+352        Ch la Poterne park derr stade     14
+353       Prc Pompidou pourtour rocaille     14
+354       Jard Hoche Ouest stabilisé arb     14
+355        R Pupin de Esmonin aux Ecrins     14
+356               Bd J Pain talus Forum      14
+357                        Ec des genêts     14
+358               R de Narvick et H Ding     14
+359         Pc Pompidou pel face 09 à 13     13
+360                 R Lorenzaccio impair     13
+361              R Pont Carpin intérieur     13
+362       Parc Vallier terrain de boules     13
+363          Pc 3 H St Ferjus Chartreuse     13
+364         R Esclangon Sémard à Vercors     13
+365                 Pc Ch Elysés ang Nal     13
+366                 Impasse Clément Ader     13
+367        Prc Ech Valmy Gallieni Voirie     13
+368               R Joserand et Duffourd     13
+369          Terrain de proximité Prémol     13
+370                           R de lAlma     13
+371          Louvois entrée Prc Pompidou     13
+372           R Stalingrad park clos dor     13
+373          R J Rey N Chorrier à Jaurès     13
+374       Av M Reynoard LBruyère  Alliés     13
+375                Ec prim Elisée Chatin     13
+376             Prc La Bruyère accés SUD     13
+377       Ec L Jouhaux 06 R du 140 R I A     13
+378        Bd Foch Tram cdt Rozan Jaures     13
+379           Ec prim Vallier R Greffier     13
+380        Prc Ouagadougou stabilisé Sud     13
+381         Bd Joffre pair Pasteur Rivet     13
+382        R Gervasoti mail des tilleuls     13
+383              R R François park Kogan     13
+384       Al Lys Rouge salle polyvalente     13
+385         A DL Weill Colombe à Arménie     13
+386        Av J Perrot ang Paul Claudel      13
+387           Jard Hoche cour des Bossus     13
+388            Bd Joffre Rivet à Pasteur     13
+389               Cargo park R P Claudel     13
+390         Ch 3 maisonsi th de création     13
+391           R Maquis de lOisans impair     12
+392                 Pl Salvatore Allende     12
+393         Av J dArc C Genin à Argouges     12
+394           R Kaunas de Manteyer à J O     12
+395               Cité Abry sur pelouses     12
+396                          Pl J Racine     12
+397       R Stalingrad Vigny à Ma Oisans     12
+398             R Maquis de lOisans pair     12
+399                      R J Bart impair     12
+400         Ec mat du Gand Chatelet n 01     12
+401            Jard des Dauphins le labo     12
+402              Sq H Mauchant n 02 à 16     12
+403        Pl Pasteur Bistesi Régi Génie     12
+404       Bd Foch Tram Marceau Lanoyerie     12
+405       Av La Bruyère Fenelon  Florian     12
+406       Av Rh Danube Vallier E Claires     12
+407        Parc 2 R Hermin align central     12
+408       Cité Mistral R A Thomas impair     12
+409           Pl P Mistral sépar central     12
+410                       Ec mat Diderot     12
+411                 R Manteyer n 37 à 41     12
+412          R du Mont Aiguille imm rond     12
+413              R Lebrix ang L Lagrange     12
+414          Parc 1 Michalon Qu Jongkind     12
+415         R Manteyer Kaunas à J Perrot     12
+416        Bd Foch pair Gambetta Marceau     12
+417                      R des Collibris     12
+418                        Ec des buttes     12
+419              Terminus Tram Esclangon     12
+420        Jaurés impair Vallier Berriat     12
+421        Ec et gymnase Houille Blanche     12
+422       R A France pk Vaucanson Camine     12
+423              Pc Pompidou zone débats     12
+424       Av Constantine ms architecture     12
+425                  R Martin Lutherking     12
+426                     Qu Claude Brosse     12
+427          Ch Gordes Est conservatoire     12
+428                Park gymnase Malherbe     12
+429          Ec mat Marceau 1 R Bobillot     12
+430             Trémie tram Sémard talus     11
+431         Av Martyrs Tram Nord Mandela     11
+432             Cité Mistral R P Strauss     11
+433         R Tarze D Savoyat à Vil lans     11
+434        Bd Esplan impair Lyon boules      11
+435           Allée des Deux Mondes pair     11
+436       Ec prim Malherbe 25av Malherbe     11
+437          Pt de Catane Sud align Tram     11
+438        Av Constantine Bourse Travail     11
+439              Cité Moyrand R E Cartan     11
+440               R C Kogan n 08 et 8bis     11
+441            Ave du Grand Serre impair     11
+442           Bd J Pain Lyautey Haxo sép     11
+443       All Romantiques Vigny Sylphide     11
+444       R Pupin Esmonin au tunnel bâti     11
+445                         R H Dagalier     11
+446          R Jacquard Louvois à Kenedy     11
+447                   R Frédéric Taulier     11
+448                Ec mat Colonel Driant     11
+449         Bd Foch Tram Marceau G Rivet     11
+450            Gal Arlequin 70 cote parc     11
+451       Halte gard mutualité exterieur     11
+452       Av Europe ang Aliende H Piazza     11
+453                         R J Lemaitre     11
+454        R E Claires Rh Danube Césaire     11
+455               Cité Moyrand R Dupleix     11
+456        R Frederico Garcia Lorca park     11
+457             Jard Plantes butte musée     11
+458                   R DrBordier impair     11
+459        Ec Jules Ferry 47 R L Jouhaux     11
+460         Ec mat Painlevé 21 Rh Danube     11
+461        Ec prim Painlevé 73 Bouchayer     11
+462             R C Kogan n 31alignement     11
+463                      R des Peupliers     11
+464         Ec mat Bizanet 51 ave Randon     11
+465           R Coubertin service voirie     11
+466       Ec prim J Racine R Cl le Camus     11
+467         R Turgot Le Nôtre à Lemaitre     11
+468          Voie E O zone éduc routière     11
+469         Av Martyrs pair Sud Horowitz     11
+470                   R Lorenzaccio pair     11
+471         Av J dArc Perreau Clémenceau     11
+472                   Ave du 11 Novembre     11
+473          Ec F Buisson 04 R DrBordier     11
+474        Pl R Frappat ang Eaux Claires     11
+475         Ec mat Savane 10 R Ronserail     11
+476             R Jouhaux lycée Argouges     11
+477       Bd Foch Tram Lanoyerie Marceau     11
+478               Sq Coppier R de lisère     11
+479          FPA des Alpins R Stalingrad     10
+480            Av Europe ang Cure Bourse     10
+481         R Peupliers butte ang tennis     10
+482        Ch la Poterne st Vercors park     10
+483         R A Terray Suède à AGrégoire     10
+484       All des Frênes pel Cascatelles     10
+485           Bd Foch Ferrié à Mallifaud     10
+486            Av Grande Chartreuse pair     10
+487           Bd Esplan pair n 4458 Lyon     10
+488       Placette Montferrat Schweitzer     10
+489       Av La Bruyère Helbronner au Sq     10
+490        Ec Mistral ave Rhin et Danube     10
+491          Pc Savane stab aire de jeux     10
+492                R Gervasoti n 06 à 34     10
+493               Ec mat Cornélie Gémond     10
+494        Pl André Malraux bord du park     10
+495                           R DrBailly     10
+496                 Cité Moyrand R Condé     10
+497               R L Lachenal n 02 à 04     10
+498               R R Lesage du 17 au 23     10
+499            Ave St Roch ang Prudhomme     10
+500          Pass du Verderet derr école     10
+501                           R des Arts     10
+502        A A Lorraine la Gare à Jaures     10
+503                R C Kogan pelouse IMT     10
+504          R Esmonin Rond point à Blum     10
+505                      R Ernest Hareux     10
+506       Prc Ouagadougou Ttoir Mantayer     10
+507         R Monge Ch église Gay Lussac     10
+508       Av Reynoard passerelle Cl Mail     10
+509                 R Flandrin voie Tram     10
+510         R Marquian Lesage à A Frédet     10
+511       Crs Libération Vaujany Rondeau     10
+512                    Qu des Allobroges     10
+513           Cté Chatelet R René Cassin     10
+514       R Robespierre tennis plein air     10
+515          A DL Weill Billat à Colombe     10
+516                        Pl Notre Dame     10
+517       Ave Randon impair Ronde Girard     10
+518          Minoterie Armand r R Thomas     10
+519           Cité Mistral Pl Solidarité     10
+520         R J Giono Jacquard  Pompidou     10
+521          R St Jaime Servien Lorraine     10
+522         R R Salengro derrière biblio     10
+523         R F Poulat pair ang St Franç     10
+524         Cargo Nord Est dans le gazon     10
+525          Av Grande Chartreuse impair     10
+526                   Stade Lesdiguières     10
+527         R Arlequin park Res LBruyère      9
+528                      Jard du Couvent      9
+529       Arrèt tram La Bruyère Pl ouest      9
+530           Bd J Pain le long du Forum      9
+531           Park Mallifaud ang P Janet      9
+532        R Léo Lagrange ang Gén Ferrié      9
+533        Crs Jaurès impair de Lorr/Ber      9
+534                        Ec des frênes      9
+535             R Capitaine Camine park       9
+536        Pl St Bruno abords de léglise      9
+537       Av LBruyère Reynoard Peupliers      9
+538         R Hermite Raspail à Alembert      9
+539                     R de lObiou pair      9
+540         Av Martyrs pair Nord Mandela      9
+541                        R R Descartes      9
+542                      R de lEchaillon      9
+543       Cargo Ext NDame piste cyclable      9
+544           Cité Mistral dev Tour n 74      9
+545         R Déportés Vaillant  Bourget      9
+546                              R Papet      9
+547       Av Martyrs impair Nord Mandela      9
+548         Pc Savane terrains pétanque       9
+549          Prc Pompidou piste cyclable      9
+550           Cité Mistral derr garderie      9
+551       Av Champon Diabl bleus Bougaut      9
+552          R Pupin du tunnel à Esmonin      9
+553                      Av Champon pair      9
+554                  R Ninon Vallin park      9
+555            Av Europe rond point tram      9
+556         Av Berthelot crédit agricole      9
+557                   Sq Charles Michels      9
+558                   Pl Gare arrêt Tram      9
+559          R du 140 RIA derr Taillefer      9
+560        Ec mat Malherbe n 40 R Pascal      9
+561         Pl Bir Hakeim Pltte Dolomieu      9
+562         Ec mat G Philippe R N Vallin      9
+563          R R Lesage devant Ec Daudet      9
+564       Jard du 8 mai 1945 R Bouchayer      9
+565       Jard Hoche combat afrique nord      9
+566       Villa Arthaud R Colonel Driant      9
+567                     R Blanche Monier      9
+568          Crs Libé Foch Rocham impair      9
+569              R de la Station Ponsard      9
+570           R Cardinal le Camus impair      9
+571                     R DrBordier pair      9
+572          R Kaunas P Cocat à Manteyer      9
+573        Av LBruyère de Peupliers Tram      9
+574         R Dunant ang B de Montferrat      9
+575                      Parvis F Latour      9
+576                            R Bécaria      9
+577         R A France Schwetzer Plateau      9
+578            Crique sud n 170 Arlequin      9
+579                 Le Rondeau coté pair      9
+580               Jard Hoche pelouse Sud      9
+581       Crique sud abords aire de jeux      9
+582                    R François Raoult      9
+583         Av Malherbe société Générale      9
+584                   Av J O nord Voirie      9
+585          R Jacquard Kenedy à Louvois      9
+586        Ave Randon imp Calv St Eynard      9
+587                         Pl de Verdun      9
+588          Ave Randon St Eynard Piquet      9
+589                         R du village      8
+590          Sq Lafleur R Général Ferrié      8
+591        R J Ferry Lumière et Ch disly      8
+592             Av Constantine n 06 à 24      8
+593         R Villard de Lans et Graille      8
+594                            R Bizanet      8
+595           Av J dArc C Genin  Perreau      8
+596        R Pascal Florian à La Bruyère      8
+597         Av Europe Ouest station Tram      8
+598           Jard Hoche pas Est Malraux      8
+599        R des Arts pas Colbert Voirie      8
+600         Av J dArc Clémenceau Perraut      8
+601                     R des Trois épis      8
+602            Cité les Vignes n 03 à 07      8
+603           Cargo Pltte ang Ext N Dame      8
+604             Ec prim libération n 203      8
+605                 Av P Cocat Tour n 16      8
+606       R Village pel contre immeubles      8
+607               R Ampère ang Lindbergh      8
+608                     R Pascal 17 à 31      8
+609      Cité Teisseire le bassin Voirie      8
+610                       R Paul Bourget      8
+611        R Lesdiguières Ouest Gambetta      8
+612        Jard Hoche accés R de Narvick      8
+613         R J Giono Jacquard à Louvois      8
+614                  Sq St Eynard massif      8
+615       Allée du Lys Rouge park CODASE      8
+616       Av Reynoard Dir dép du travail      8
+617        R P Janet Mallifaut à Peretto      8
+618             R Manteyer 01à13 ang J O      8
+619       Ave Fenelon Littré  La Bruyère      8
+620          Bd Clémenceau Valmy  J darc      8
+621              R C Kogan n 35 Andrieux      8
+622             R Scierie ang Qu Graille      8
+623       Pl de Sfax devant biblio inter      8
+624                     Allée Ch Pranard      8
+625          Pl Doyen Gosse devant I U T      8
+626                   Pl Lavalette Musée      8
+627            Ave Randon Girard Masséna      8
+628         R Gay Lussac Berthelot Monge      8
+629           Av Martyrs pl Mandela pair      8
+630        Ec prim Bizanet 51 ave Randon      8
+631          Av J O de Jouhaux à 140 RIA      8
+632           Cité Mistral derr 74 align      8
+633                   R Charles Berthier      8
+634                      R Manteyer n 31      8
+635        Av Constantine ang All Frênes      8
+636           R H de Balzac ang Jacquard      8
+637                     Pl André Malraux      8
+638        Av Martyrs Tram Nord Horowitz      8
+639                      R Georges Bizet      8
+640           Av Malherbe pe face écoles      8
+641              Sq J Macé Qu P L Merlin      8
+642        A Lorraine pair Gambet Jaures      8
+643          Ave Randon Mortillet Girard      8
+644        Av Berthelot  crêche Malherbe      8
+645                        R R Fernandat      8
+646         R Kennedy Jacquard à Louvois      8
+647              R Sémard park Antenne 1      8
+648                    Pl Firmin Gautier      8
+649               R Col Driant cote Parc      8
+650        Cité Mistral R A Thomas 06 08      8
+651           Av J dArc Perreau  C Genin      7
+652         Av P Cocat Pltte de la poste      7
+653          R Stalingrad pair ang Vigny      7
+654         Jard Hoche cour des amoureux      7
+655        R Déportés ang Mallifaud park      7
+656       Cimetière du Grand Sablon park      7
+657       Ec mat Bajatière 61av J Perrot      7
+658                      Placette Prémol      7
+659         Av Reynoard Dodero à Esmonin      7
+660       R Arts de montagne face 9 à 13      7
+661        R Lanoyerie talus voie ferrée      7
+662       Bd Foch pair Hôt Mercure park       7
+663         Pc 3 H St Ferjus ch de Ronde      7
+664                          R St Ursule      7
+665           Jard des Dauphins vasques       7
+666            Jard Hoche jeux Est sport      7
+667                        Pl DrGalimard      7
+668              Ec mat 47 R Sidi Brahim      7
+669          Ec prim P Bert 07 Pl Girard      7
+670            Av J O Poterne Washington      7
+671          R Arlequin pourtour silo 03      7
+672                      Ec Lucie Aubrac      7
+673           R A France Houille Blanche      7
+674           R A France Barral Renavent      7
+675            Ec mat Berriat r Anthoard      7
+676                          R de Boston      7
+677             R Arlequin massif tennis      7
+678       Ec prim Bajatière 06 Ch Eglise      7
+679                       Rue Guy Moquet      7
+680                Gal de lArlequin n 10      7
+681         Cité Mistral R A France park      7
+682        Cargo ang P Claudel Berthelot      7
+683         R Turgot Lemaitre à Malherbe      7
+684                   R du Mont Aiguille      7
+685            Green Way 19 R Gén Ferrié      7
+686                 Ec mat Elisée Chatin      7
+687            R Capitaine Camine CODASE      7
+688        R Salengro Drevet Ch Pit Nice      7
+689                Ec Beauvert av L Blum      7
+690       R Andrieux James au rond point      7
+691             R Arlequin ang voie tram      7
+692                Parc de la Savane Sud      7
+693           R A Césaire devant collège      7
+694        Chem bois Artas mais retraite      7
+695         R Flandrin échangs à Galieni      7
+696         R A France Parvis du Plateau      7
+697              Bd Foch Mangin à Ferrié      7
+698                        Pl M Novarina      7
+699                      Crique sud park      7
+700       Ec mat Primevères R Gervasotti      6
+701         Sq Vallois Montorge Belgrade      6
+702                     Pl Lionel Terray      6
+703                    Sq des Charmilles      6
+704            R N Chorier ang J Prevost      6
+705       R Esmonin Pupin à Gd Place sép      6
+706         Jard Hoche P Fugain Nord Est      6
+707        R M Bourette nord contre bati      6
+708                R DrSchweitzer impair      6
+709            Chem Barral ang Villebois      6
+710       Cité Mistral R A Thomas boules      6
+711            Ec mat Vallier R Greffier      6
+712           Ec prim n 45 R Sidi Brahim      6
+713                        Pl des Géants      6
+714          Prc Pompidou alignt central      6
+715             Pl des droits de lenfant      6
+716          Bd J Pain Forum sép central      6
+717         Ave Rh Danube dev GS Mistral      6
+718        Bd Foch Cdt de Reynies Mangin      6
+719        R Déportés Bourget  Mallifaud      6
+720        Cité Mistral Thomas aire jeux      6
+721                        Pl Ste Claire      6
+722           R Gén Mangin Hôtel Mercure      6
+723                  Chem Guilbaut ouest      6
+724       Cité Mistral imp 70 alignement      6
+725                  R Capitaine Belmont      6
+726           Bd Gallieni park n 02 à 06      6
+727         Sq H Mauchant face n 16 à 22      6
+728                    Ec prim A Daudet       6
+729                Ec prim Jard de ville      6
+730        Av Constantine Trident à Pins      6
+731               Res La Bruyère 40 à 48      6
+732          Av Randon imp Girard Calvat      6
+733                     Portes de louest      6
+734          R Pierre Sémard du 40 au 48      6
+735        Bd Diable Bles Perrot Pasteur      6
+736             Res La Bruyère commerces      6
+737            Pl Pasteur Bistesi Joffre      6
+738        Pl Pasteur Joffre Diabl bleus      6
+739        Pc Ch Elysés entree dr Farges      6
+740           R Jacquard Mangin à Kenedy      6
+741           Sq La Bruyère dans pelouse      6
+742             Pl J Marval et R Arthaud      6
+743                 Centre social Prémol      6
+744         Ave Randon trottoir Bizanet       6
+745        Ave Randon stab Saulaie Bizan      6
+746          R du 140 RIA f du Taillefer      6
+747             Ec mat J Jaurès n 02 Jay      6
+748              R Stalingrad ang E Zola      6
+749            Trémie tram Berriat talus      6
+750         Av Martyrs pl Mandela impair      6
+751        Bd Gambetta de H Ding à Foch       6
+752             Pt Catane Sud align Tram      6
+753             Sortie A 480 zone boisée      6
+754               Bd J Vallier ang Irvoy      6
+755             Jard des Dauphins entrée      6
+756             R H de Balzac ang Alliés      6
+757         Jard des Dauphins le châlet       6
+758                Sq Roger Louis Lachat      6
+759        Pl des Géants 80 croix du sud      6
+760                  Pl Laurent Bonnevay      6
+761       R Peretto Berthelot Gay Lussac      6
+762        R Thiers impair Condorcet Tes      6
+763               R G Philippe n 12 à 28      6
+764                       R Léon Drivier      5
+765          Jard des Dauphins le mûrier      5
+766        Cité Moyrand R Dupleix impair      5
+767        Ave Rh Danube Strauss Reynier      5
+768       Crique sud Pltte mais médicale      5
+769         A Lorraine impair Gamb VHugo      5
+770        Ave Rh Danube dev éc A France      5
+771                Ec P Cocat R Manteyer      5
+772       A Lorraine pair Mazet Gambetta      5
+773         R M Bourette partie minérale      5
+774       Cargo triang gazon R P Claudel      5
+775         Cité Mistral R A Thomas n 20      5
+776        Ec de mus Ampère ang Greffier      5
+777                    Piscine Vaucanson      5
+778                   R du 140 RIA Ouest      5
+779           Av Malherbe face n 14 à 18      5
+780         R Kennedy Jacquard  Pompidou      5
+781               R Stalingrad le marché      5
+782            R C Démoulins ang Turenne      5
+783           Crique sud sortie R Dodero      5
+784          R Jacquard Kennedy à Mangin      5
+785        Av J Perrot Manteyer à JO sép      5
+786       Pl Pasteur Diabl bleus Champon      5
+787                     Pl André Charpin      5
+788                         Qu de France      5
+789          R F Poulat pair ang Miribel      5
+790       R Argouges  Jouhaux à C Rivail      5
+791          R Esclangon Vercors Diderot      5
+792                 R Esclangon park HLM      5
+793                  R Henriette Deloras      5
+794            Av J O Poterne rond point      5
+795                        R Paul Doumer      5
+796        R C Kogan IMT contre bâtiment      5
+797           R A Terray espace dAthènes      5
+798                         Ave Beauvert      5
+799                       Park P Gaspard      5
+800             R H Duhamel du n 22 à 32      5
+801                    Mail des Tilleuls      5
+802          Sq Belmont ang R St Nicolas      5
+803          Av Fenelon Littré à Boileau      5
+804                Pass des 400 couverts      5
+805          Jard Hoche Nord Ouest sport      5
+806                    R Roger Ronserail      5
+807            Pt de Catane Nord Vallier      5
+808          C Berriat Grégoire Alembert      5
+809       Cargo Est allée entre bâtiment      5
+810                    Pl Ch Dullin pair      5
+811                 R Pascal du 17 au 31      5
+812                         R M Bourette      5
+813          Av Europe 30 32 le Polynôme      5
+814          Garage central Malherbe Sud      5
+815       Bd Diable Bleu Mistral Pasteur      5
+816        R Florian Pascal à La Bruyère      5
+817         Qu jongkind Tarillon Lachman      5
+818        Pt Catane Nord Vallier Voirie      5
+819        Bd Joffre impair Past Mistral      5
+820          Av Berthelot arrêt tram MC2      5
+821       Jard des Dauphins camp indien       5
+822                     Allée des Frênes      5
+823       R Pupin Ma Oisans à R François      5
+824        Av Berthelot pair ang Peretto      5
+825             R Colonel Veyron Lacroix      5
+826                     R Cdt lHerminier      5
+827            R Stalingrad park Mancret      5
+828         R Thiers pair Condorcet Test      5
+829        Halte gard Abbaye Jouhaux ext      5
+830         Local CPHT Nord gym Malherbe      5
+831            R des Chardonnerets Pltte      5
+832                 Pl Ch Dullin impair       5
+833          Al de la Sylphide ang Vigny      5
+834                           Pl de Metz      5
+835          R E Zola ang Berthelot park      5
+836             Parc 2 R Hermin Cöte Sud      4
+837                           Sq Recoura      4
+838          Av La Bruyère park 26 et 28      4
+839                        Sq La Bruyère      4
+840              Ec Buffon n 01 R Cuvier      4
+841        Quatre Tours Malherbe 17 park      4
+842       Bd Joffre pair Pasteur Mistral      4
+843                         Allée dEssen      4
+844       Foyer 1900 Cour R Ninon Vallin      4
+845            R Rouvière vers fourrière      4
+846                    Sq Cdt Perraut R       4
+847                 R M Dodero park tram      4
+848             Jard Hoche talus NordEst      4
+849               Ave Fenelon n 15 et 17      4
+850         Ec prim Reynoard Romantiques      4
+851           Ec pr Berriat R A Grégoire      4
+852       Pl Verdun Tram Beyle Stendhal       4
+853          Pl Pasteur Maison étudiants      4
+854                       R des Trembles      4
+855               Qu de France n 30 park      4
+856       Ch Collège Allée de la Pelouse      4
+857         Pl L Jouvet derrière 22 à 24      4
+858        Ch Gordes Ouest conservatoire      4
+859            R Cdt Rozan Janssen talus      4
+860            Technisud derr rond point      4
+861         Ec Christophe Turc intèrieur      4
+862            Ave M Reynoard ang Alliés      4
+863                 R Alliés dev POINT P      4
+864            Sq Péguy ang Le cardonnel      4
+865              Cité F Gauthier Vercors      4
+866       Chem de Halage park des vignes      4
+867        Caser Bonne Espl A Leray Nord      4
+868                      R des Destinées      4
+869       R Alliés Matussière Stalingrad      4
+870           Pc Ouagadougou pelouse Est      4
+871                 R Ampère ang Raspail      4
+872                R Arago ang C Bernard      4
+873       Bd Mal Lyautet devant la Poste      4
+874              Trémie tram ang Berriat      4
+875              Biblio Abbaye les Bains      4
+876         R Col Driant Pltte dev école      4
+877                     R Cdt de Reynies      4
+878               R Turenne ang Augereau      4
+879                Pl des Géants 40 park      4
+880           Ec J Macé n 01 R J Lyonnaz      4
+881          R L et A Lumière ang Pegoud      4
+882       R Tr Quartiers Dodero Reynoard      4
+883            Pl des Géants 40 cour int      4
+884                         R St Jacques      4
+885                            Pl dAgier      4
+886                   Gal Arlequin M J C      4
+887                       R Léon Sestier      4
+888       Av Littré Fenelon à La Bruyère      4
+889            Av J O nord n 1000 à 1030      4
+890          R Alliés Milliat A de Vigny      4
+891            Ec mat Daudet 16 R Lesage      4
+892           R Jacquard ang H de Balzac      4
+893           R G Lafourcade park O jeux      4
+894              R Alembert derr piscine      4
+895        Pl Gare F Viallet à C Brenier      4
+896                    Allée du Verderet      4
+897              Bd Foch Mallifaud Rivet      4
+898                 R des Bergeronnettes      4
+899          R C Kogan n 35 Jardière IMT      4
+900              Ec N Chorier n 21 et 23      4
+901              Ec mat libération n 207      4
+902            Ec C Bernard q la Graille      4
+903          R Obiou ang Dent de Crolles      4
+904       R Lieu Chabal contre ec Daudet      4
+905                    Technisud pelouse      4
+906                    Pl Emé de Marcieu      4
+907                  R Ninon Vallin IMCP      4
+908                       R de Mortillet      4
+909              R C Kogan n 37 Andrieux      4
+910        Jaurés impair Jansens Turenne      4
+911              Ec prim Cornélie Gémond      4
+912               Ec des Arts R FG Lorca      4
+913        Al des Genêts align ec Frenes      4
+914              Impasse des érables Est      4
+915                       Grande pelouse      4
+916                      R Adrien Ricard      4
+917                  R Malakoff le Forum      3
+918            R Père Marion église St L      3
+919           R Moyrand réserve foncière      3
+920               R Romanet 12 à 140 RIA      3
+921         Garage central Malherbe Nord      3
+922        Cité Mistral R A Thomas 16 20      3
+923           Ch Alpins ang Lieut Chabal      3
+924              Pied butte n 08 Trident      3
+925            Av Washington Pltte av JO      3
+926             Ch dIsly ang Jules Ferry      3
+927                 Pl Raymond Perinetti      3
+928                   Sq du 19 mars 1962      3
+929                            Le Zénith      3
+930       R Stalingrad Jacquard Lagrange      3
+931            R Irvoy ang Papet Charrel      3
+932       Bd Foch pair Marceau Lanoyerie      3
+933             Ec Verderet R Gervasotti      3
+934         Av P Cocat impair alignement      3
+935                             R Kruger      3
+936        R G Tonnelier ang av Teiseire      3
+937                   R de la Magnanerie      3
+938          R Turgot n 05 vers la voute      3
+939               Cité Abry aire de jeux      3
+940           Cité les Vignes n 39 à 43       3
+941       Prc Mis arr mont diables bleus      3
+942         Pl Géants ext crêche Poucets      3
+943                  R Pupin accés Kogan      3
+944           Jard Hoche entrée Nord Est      3
+945             R Dent de Crolles square      3
+946         Bd Foch pair n 66 ang Jaurès      3
+947          Parc La bruyère zone boisée      3
+948                Pl Victor Hugo Voirie      3
+949             R Menon Oddos alignement      3
+950               R des Arts pas Colbert      3
+951          R Malakoff devant la banque      3
+952                      R Eugène Varlin      3
+953                    Pl du Grésivaudan      3
+954        Bd Gallieni derrière 02 04 06      3
+955        R H Duhamel terrain proximité      3
+956        Ave Randon FC Allobroges Saul      3
+957          Pl du marché n 150 Arlequin      3
+958                      R Auguste Genin      3
+959            Ec Musiq Jar 50 Qu France      3
+960              Pc Ch Elysés ile du lac      3
+961   Av Martyrs Tram Pair Nord Horowitz      3
+962               Caser Bonne Rue Carnot      3
+963           R des Bergers et des bains      3
+964       Pc Pompidou al du parc face 01      3
+965                Ec prim J Jaurès n 09      3
+966                   R de lObiou impair      3
+967        Ave Rh Danube devant lAtelier      3
+968         R J Chanrion accés 07 Moulin      3
+969                        Chem des Arts      3
+970                Pl L Jouvet n 02 à 06      3
+971        Bd des Adieux park et tennis       3
+972              R Sémard impasse thalgo      3
+973       R Arts de montagne derr tennis      3
+974               R Dt de Crolles square      3
+975       Cité Mistral R A France 51  53      3
+976                              R Corot      3
+977         R E Zola ang Berthelot foyer      3
+978        Caser Bonne Espl A Leray  Sud      3
+979                  R du Drac ang Sully      3
+980          Cité les Vignes Sq H Huchon      3
+981         Cité Mistral R A France n 45      3
+982                          Bd Gallieni      3
+983           Cité Moyrand R Elie Cartan      3
+984               Ch Gordes dev local EV      3
+985       R Andrieux PM Curie R François      3
+986        R A Vigny ang G de Maupassant      3
+987         R Dt Crolles James Echaillon      3
+988       R FG Lorca park contre imeuble      3
+989          Prc Mis entre Mairie et bds      3
+990       R Musset Reynoard  Deux Mondes      3
+991             Av J O Kaunas à Mantayer      3
+992          Cité Moyrand R Dupleix pair      3
+993                        R des Minimes      3
+994       Ave Rh Danube devant Pharmacie      2
+995                     Pl Joseph Riboud      2
+996         Av LBruyère ang Reynoard pel      2
+997          R Diderot ang Pt du vercors      2
+998                 M J C Anatole France      2
+999       R François Raoult sce logement      2
+1000                     R Manteyer n 53      2
+1001              R G Philippe face n 10      2
+1002           R A Matussière ang Lesage      2
+1003             R Ponsard ang Berthelot      2
+1004      R Sémard devant hôtel Europole      2
+1005           R des Arts Jard Trocadero      2
+1006       Prc Pompidou long voie ferrée      2
+1007          R du Repos tennis couverts      2
+1008       Al de la pelouse cote antenne      2
+1009                     Pl des Tilleuls      2
+1010         R Marius Riollet cité rouge      2
+1011          Cité Mistral R A France 35      2
+1012      Pl des Géants 30 cage escalier      2
+1013              R Arago ang E Gueymard      2
+1014            R J Bistesi tram Chavant      2
+1015            R Manteyer tour n 51 sud      2
+1016       R N Vallin Esp petite enfance      2
+1017          R Eugène Faure ang R Mably      2
+1018              Av J O caisse dépargne      2
+1019               R Hermite ang Raspail      2
+1020      R E Romanet face au n 02 à 12       2
+1021           Av Berthelot ang Flaubert      2
+1022             R Arts de montagne n 01      2
+1023           R de la Scierie ang Arago      2
+1024                R des Martyrs AVIPAR      2
+1025                 Passage la Fontaine      2
+1026                Pas la Fontaine park      2
+1027       R L Lagrange ang R Gén Mangin      2
+1028       Sq des Fusillés part centrale      2
+1029        R Barral église St Vinc Paul      2
+1030      Av J Perrot Boileau à J Racine      2
+1031                Ave Randon dev musée      2
+1032              R Sémard les Estudines      2
+1033              R Ponsard ang J Perrot      2
+1034               Pl G Rivet ang Joffre      2
+1035            R du Repos ang la Mogne       2
+1036       Av J O Poterne caisse épargne      2
+1037       Pltte Ch du parc Est butte 04      2
+1038          Désserte des alisiers mail      2
+1039          R René Lesage aire de jeux      2
+1040           R Peretto face n 12 et 18      2
+1041                   Prc Mis mini golf      2
+1042         Ave Randon Piquet Mortillet      2
+1043             Av P Cocat n 21et 21bis      2
+1044      Pas la Fontaine coté Helbroner      2
+1045           Terrain daventure R Repos      2
+1046                R Francis James park      2
+1047           Parc 1 Michalon R Massena      2
+1048         Gal Arlequin Arbre fruitier      2
+1049        Jard des Dauphins petit nice      2
+1050                 Bd Mal Foch n 57 59      2
+1051         R Sémard larche à F Gautier      2
+1052           R P Janet ang A1 Belgique      2
+1053                      R Très Cloitre      2
+1054        Cité Chatelet Rivail chicane      2
+1055      Q de la Graille Jeux de boules      2
+1056         R Jacquard propreté urbaine      2
+1057        Av Berthelot crêche Malherbe      2
+1058                    R Pierre Duclot       2
+1059           Prc La Bruyère accés NORD      2
+1060                      R C Genin n 22      2
+1061                      Sq Cdt Perraut      2
+1062                    Parc de Marliave      2
+1063        R H Duhamel ang Musset Pupin      2
+1064          Pc Mis park anneau vitesse      2
+1065                       Pl du Temple       2
+1066        R Francis James Vigny Voirie      2
+1067                        Ave de Suède      2
+1068         Prc Mis stab Ouest St Alpes      2
+1069           R 140 R I A Pl de lamitié      2
+1070              La piste dans le talus      2
+1071            Ec Eterlous R Gervasotti      2
+1072       R A Vigny Staling Romantiques      2
+1073         Cité Mistral derr n 70 park      2
+1074             R C de Bussy talus SNCF      2
+1075           Chem des Alpins face n 38      2
+1076        Chem de Halage désinfection       1
+1077                 R Marguerite Gonnet      1
+1078        R Delacroix garage 1000 lacs      1
+1079       R L Jouhaux Pltte déchetterie      1
+1080                   R Fourrier n 2bis      1
+1081              Res J Brel contre silo      1
+1082           Ch église Monge Berthelot      1
+1083             R de New York ang Paris      1
+1084            Ec mat pas Jard de Ville      1
+1085                Ec mat n 11 R Millet      1
+1086           R Gén Durand ang J Perrot      1
+1087                Av P Cocat n 12 CRM       1
+1088                 R Turgot n 05 Pltte      1
+1089                   R Trois épis park      1
+1090            R F James ang A de Vigny      1
+1091              R de Londres ang Paris      1
+1092            Ec Pte St Laurent 22 bis      1
+1093           Parc Cellatex zone boisée      1
+1094                         Res J Brel       1
+1095                   Butte n 04 zénith      1
+1096        R Tarze Berthier à D Savoyat      1
+1097         Av Berthelot Ponsard Gordes      1
+1098      Tr quartiers montée des Genêts      1
+1099          Park Mancret service Métro      1
+1100            R Manteyer n 13 derrière      1
+1101         R D Fontanelle ang Essen JO      1
+1102         Ec mat P Bert 10 R A Chissé      1
+1103                     Sq des Fusillés      1
+1104      Av Constantine derr n 12 parc       1
+1105      R R L Lachat dev éc Clémenceau      1
+1106            Ec Ampère n 59 R du Drac      1
+1107         Caser Bonne Vallons Marceau      1
+1108      Av LBruyère Collibris Reynoard      1
+1109                   Allée des Balcons      1
+1110       R R François Pupin à Andrieux      1
+1111                       Al des Genêts      1
+1112      Al de la pelouse Ec des Frênes      1
+1113            R Turgot marché Malherbe      1
+1114         Al de la pelouse Ch Collège      1
+1115                        R du Trident      1
+1116            Av St Roch ang St Ferjus      1
+1117         Ave St Roch ang ch de Ronde      1
+1118            La piste plateau sportif      1
+1119      Centre social des Eaux Claires      1
+1120             Sq Mozart n 01 R Cuvier      1
+1121      Ave Rh Danube L king E Claires      1
+1122           Prc Mis Jard alpin bassin      1
+1123         Ra Blanchard ang St Jacques      1
+1124              Prc Mis pel Col Driant      1
+1125          R M Gontard angle M Deprez      1
+1126         Pl Gare arrêt Tram terminus      1
+1127          Cité Mistral R A France 88      1
+1128          Sq Moucherotte ang Vercors      1
+1129            R Manteyer n 21 derrière      1
+1130                Chem du Parc bosquet      1
+1131                  R Général Marchand      1
+1132             R Arlequin silo 03 park      1
+1133       Bd Foch Mallifaud angle Rivet      1
+1134           Av J O Poterne à J Valles      1
+1135        R St Ferjus Pont des Sablons      1
+1136      Prc Mis Jard alpin abd cascade      1
+1137             R J Bart ang du 140 RIA      1
+1138      Tr quartiers ang al des Genêts      1
+1139            Prc Mis pel Ouest Mairie      1
+1140         R Manteyer ang D Fontanelle      1

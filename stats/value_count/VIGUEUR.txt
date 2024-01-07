@@ -1,0 +1,5 @@
+                          class  count
+0                     vigoureux  12449
+1         vigueur intermédiaire   2537
+2  vieillissement dépérissement    378
+3                             ?     11

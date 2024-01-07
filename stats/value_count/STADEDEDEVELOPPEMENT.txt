@@ -1,0 +1,5 @@
+                class  count
+0        Arbre adulte  13250
+1         Arbre jeune   1954
+2  Arbre vieillissant    120
+3                   ?     51

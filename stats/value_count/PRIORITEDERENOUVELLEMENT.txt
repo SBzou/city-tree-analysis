@@ -1,0 +1,6 @@
+            class  count
+0  plus de 20 ans  11371
+1  de 11 à 20 ans   2922
+2   de 6 à 10 ans    612
+3    de 1 à 5 ans    343
+4               ?    127

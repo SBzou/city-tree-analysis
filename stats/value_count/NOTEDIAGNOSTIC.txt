@@ -1,0 +1,7 @@
+                             class  count
+0             Arbre davenir normal  11716
+1          Arbre davenir incertain   2651
+2  Arbre à abattre dans les 10 ans    592
+3   Arbre à abattre dans les 5 ans    323
+4    Arbre à abattre immédiatement     53
+5                                ?     40

@@ -1,0 +1,5 @@
+                                    class  count
+0  passages fréquents et arrêts fréquents  12164
+1            passages fréquents ou arrêts   3065
+2                       quelques passages    145
+3                                       ?      1

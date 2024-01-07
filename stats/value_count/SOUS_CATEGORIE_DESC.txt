@@ -1,0 +1,5 @@
+                      class  count
+0           Arbre de voirie   7235
+1    Arbre despaces ouverts   6944
+2  Arbre denceintes fermées   1186
+3         Bois semi naturel     10

@@ -1,0 +1,6 @@
+        class  count
+0           ?  15014
+1  Alignement    310
+2      Groupé     40
+3       Isolé      7
+4   Périmètre      4

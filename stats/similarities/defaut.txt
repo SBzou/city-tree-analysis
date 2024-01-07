@@ -1,0 +1,5 @@
+               Collet  Houppier    Racine     Tronc
+0    DEFAUT  0.431002  0.814167  0.379962  0.641808
+1    Collet         X  0.283209  0.296708  0.339025
+2  Houppier         X         X  0.213953  0.332540
+3    Racine         X         X         X  0.172194

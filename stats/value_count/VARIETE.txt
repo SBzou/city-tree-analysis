@@ -1,0 +1,91 @@
+                       class  count
+0                          ?  13212
+1                  Austriaca    558
+2                    Italica    279
+3                     Wierii    194
+4                Chanticleer    171
+5                      Flame     96
+6                Pyramidalis     70
+7                     Glauca     67
+8                    Raywood     61
+9              Vallis clausa     57
+10                   Inermis     55
+11                   Negenia     51
+12              Atropurpurea     46
+13                     Plena     44
+14                Columnaris     40
+15          Schwedleri nigra     27
+16                Fastigiata     27
+17                    Rubrum     26
+18                  Baumanii     18
+19                 Fruitless     17
+20                Green vase     16
+21                    Celsan     13
+22                   Mancana     11
+23                   Pendula     11
+24                   Capital     10
+25           Shidare yoshino      9
+26                  Purpurea      9
+27              Eléagnifolia      8
+28       Reine des reinettes      8
+29        Kausteriana glauca      8
+30                    Allumi      8
+31                   Stricta      7
+32              Purpurascens      7
+33                      Yang      7
+34                    Aureum      6
+35                   Briotti      6
+36               Dawyck gold      6
+37                    Kansan      6
+38                Greenspire      6
+39                 Fast gold      6
+40                Hupehensis      5
+41              Autumn blaze      5
+42                   Hornett      5
+43                   Tristis      5
+44                Imperialis      4
+45                     Calva      4
+46                  Everesta      4
+47       Sapporo autumn gold      3
+48               Grany smith      3
+49         Doyenne du comice      3
+50                    Tulipe      2
+51        Mirabelle de Nancy      2
+52                     Maxim      2
+53                   Perpetu      2
+54                    Mecsek      2
+55                 Variegata      2
+56                  Fargesii      2
+57                     Karst      2
+58  Reinette grise du canada      2
+59         Belle de Pontoise      2
+60                    Frinia      1
+61               Pedonculata      1
+62                    Hubert      1
+63          Golden délicious      1
+64                  Carrieri      1
+65                  Provence      1
+66                Ardéchoise      1
+67             Planteriensis      1
+68          Purpurea pendula      1
+69                      Scop      1
+70             Docteur Guyot      1
+71                    Evelyn      1
+72           Westhoff glorie      1
+73           Reinette Vignat      1
+74                Legrelliae      1
+75        Précoce de Trévoux      1
+76              Crimson king      1
+77                     David      1
+78                 Nationale      1
+79                    Engelm      1
+80                    Burlat      1
+81              Beurre Haedy      1
+82                 Myrobolan      1
+83                  Ombrella      1
+84                  Mariesii      1
+85                  Jonagold      1
+86                Charlottae      1
+87           Claude Blanchet      1
+88                  Fortunei      1
+89                 Laciniata      1

@@ -1,0 +1,6 @@
+             percentages
+0    DEFAUT     0.166667
+1    Collet     0.000000
+2  Houppier     0.166667
+3    Racine     0.000000
+4     Tronc     0.000000

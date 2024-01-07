@@ -1,0 +1,4 @@
+          class  count
+0             ?  15145
+1       Nouveau    186
+2  Remplacement     44

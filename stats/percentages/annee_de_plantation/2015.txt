@@ -1,0 +1,6 @@
+             percentages
+0    DEFAUT            0
+1    Collet            0
+2  Houppier            0
+3    Racine            0
+4     Tronc            0

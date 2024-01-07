@@ -1,0 +1,5 @@
+     class  count
+0        ?  14287
+1    Haute    709
+2  Moyenne    311
+3    Basse     68
